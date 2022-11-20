@@ -2,7 +2,7 @@ class SpawnManagerInteraction extends Interaction;
 
 var private float Delay;
 
-function bool keyEvent(EInputKey key, EInputAction action, FLOAT delta ) {
+function bool keyEvent(EInputKey key, EInputAction action, float delta ) {
 	local string keyalias;
 
 	keyalias = viewportOwner.actor.consoleCommand("KEYNAME"@key);
