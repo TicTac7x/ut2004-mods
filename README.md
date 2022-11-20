@@ -11,7 +11,7 @@ Keybinds for checkpoints can be configured from `Settings` -> `Input` -> `Config
 ### Default Keybinds
 `Insert` - Add checkpoint  
 `Delete` - Remove checkpoint  
-`Enter` - Teleport to checkpoint
+`Home` - Teleport to checkpoint
 
 - - - -
 
