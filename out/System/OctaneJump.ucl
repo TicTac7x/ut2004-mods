@@ -1,0 +1,1 @@
+Mutator=(ClassName=OctaneJump.OctaneJump,GroupName=Jumping,IconMaterialName=MutatorArt.nosym,FriendlyName=OctaneJump.OctaneJump.FriendlyName,Description=OctaneJump.OctaneJump.Description,FriendlyName=OctaneJump.OctaneJump.FriendlyName,FallbackName="OctaneJump",FallbackDesc="Double jump whenever you want.")
